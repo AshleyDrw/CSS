@@ -1,0 +1,148 @@
+body {
+    background: url(https://previews.123rf.com/images/olgagi/olgagi1907/olgagi190700226/129225998-gray-brown-wooden-texture-closeup-of-light-gray-rustic-wooden-immitation-background-beautiful-backdr.jpg)
+
+}
+
+.header,
+h1 {
+    color: rgb(5, 5, 5);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+    font-weight: normal;
+    font-style: italic;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+.tabs {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-style: italic;
+    font-variant: small-caps;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.himage{
+    text-align: center;
+}
+
+.home-img {
+    height: 750px;
+    width: 10s00px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(5, 5, 5);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    font-variant: small-caps;
+    border: 5px solid rgb(245, 245, 245);
+    border-radius: 10px;
+    border-width: 10px;
+    border-style: double;
+    background-color: rgba(245, 245, 245, 0.607);
+    text-align: center;
+}
+
+.menu-items li {
+    color: rgb(5, 5, 5);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 548;
+    font-style: italic;
+    font-variant: small-caps;
+    border: 5px solid rgba(245, 245, 245, 0.607);
+    border-radius: 10px;
+    border-width: 10px;
+    border-style: double;
+    background-color: rgba(245, 245, 245, 0.607);
+}
+
+.fimage,
+.about-img,
+.kit-img {
+    text-align: center;
+}
+
+.kit-img {
+    height: 400px;
+}
+
+#contact-us {
+    text-align: center;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.fimage {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.menu-banner {
+    position: absolute;
+    top: 0%;
+    padding: 300px;
+    padding-left: 650px;
+    z-index: 10;
+}
+
+.mimosa {
+    max-width: 70%;
+    max-height: 70%;
+    position: relative;
+    padding-left: 200px;
+}
+
+#libations-menu {
+    position: absolute;
+    top: 190%;
+    padding: 300px;
+    padding-left: 550px;
+    z-index: 10;
+}
+
+.title {
+    position: absolute;
+    padding: 10px;
+    padding-left: 500px;
+    z-index: 10;
+    display: inline-block;
+}
+
+table {
+    border-collapse: collapse;
+    padding-left: 200px;
+    z-index: 10px;
+}
+
+form {
+    border: 5px solid rgb(245, 245, 245);
+    border-radius: 10px;
+    border-width: 10px;
+    border-style: double;
+    background-color: rgba(245, 245, 245, 0.607);
+    z-index: 10px;
+}
+
+footer {
+    padding-top: 250px;
+    padding-left: 590px;
+}
